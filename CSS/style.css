@@ -52,6 +52,10 @@ body {
    font-size: 20px;
  }
  
+.comment {
+   font-size: 27px;
+}
+
  .services {
    font-size: 14px;
    margin: 1em;
